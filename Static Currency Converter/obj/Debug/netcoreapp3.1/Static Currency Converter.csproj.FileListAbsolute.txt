@@ -1,0 +1,15 @@
+C:\Users\Diclair\Documents\ITS\Pemrograman Berbasis Kerangka Kerja\Tugas\Static Currency Converter\Static Currency Converter\bin\Debug\netcoreapp3.1\Static Currency Converter.exe
+C:\Users\Diclair\Documents\ITS\Pemrograman Berbasis Kerangka Kerja\Tugas\Static Currency Converter\Static Currency Converter\bin\Debug\netcoreapp3.1\Static Currency Converter.deps.json
+C:\Users\Diclair\Documents\ITS\Pemrograman Berbasis Kerangka Kerja\Tugas\Static Currency Converter\Static Currency Converter\bin\Debug\netcoreapp3.1\Static Currency Converter.runtimeconfig.json
+C:\Users\Diclair\Documents\ITS\Pemrograman Berbasis Kerangka Kerja\Tugas\Static Currency Converter\Static Currency Converter\bin\Debug\netcoreapp3.1\Static Currency Converter.runtimeconfig.dev.json
+C:\Users\Diclair\Documents\ITS\Pemrograman Berbasis Kerangka Kerja\Tugas\Static Currency Converter\Static Currency Converter\bin\Debug\netcoreapp3.1\Static Currency Converter.dll
+C:\Users\Diclair\Documents\ITS\Pemrograman Berbasis Kerangka Kerja\Tugas\Static Currency Converter\Static Currency Converter\bin\Debug\netcoreapp3.1\Static Currency Converter.pdb
+C:\Users\Diclair\Documents\ITS\Pemrograman Berbasis Kerangka Kerja\Tugas\Static Currency Converter\Static Currency Converter\obj\Debug\netcoreapp3.1\Static Currency Converter.csprojAssemblyReference.cache
+C:\Users\Diclair\Documents\ITS\Pemrograman Berbasis Kerangka Kerja\Tugas\Static Currency Converter\Static Currency Converter\obj\Debug\netcoreapp3.1\Static_Currency_Converter.Form1.resources
+C:\Users\Diclair\Documents\ITS\Pemrograman Berbasis Kerangka Kerja\Tugas\Static Currency Converter\Static Currency Converter\obj\Debug\netcoreapp3.1\Static Currency Converter.csproj.GenerateResource.cache
+C:\Users\Diclair\Documents\ITS\Pemrograman Berbasis Kerangka Kerja\Tugas\Static Currency Converter\Static Currency Converter\obj\Debug\netcoreapp3.1\Static Currency Converter.AssemblyInfoInputs.cache
+C:\Users\Diclair\Documents\ITS\Pemrograman Berbasis Kerangka Kerja\Tugas\Static Currency Converter\Static Currency Converter\obj\Debug\netcoreapp3.1\Static Currency Converter.AssemblyInfo.cs
+C:\Users\Diclair\Documents\ITS\Pemrograman Berbasis Kerangka Kerja\Tugas\Static Currency Converter\Static Currency Converter\obj\Debug\netcoreapp3.1\Static Currency Converter.csproj.CoreCompileInputs.cache
+C:\Users\Diclair\Documents\ITS\Pemrograman Berbasis Kerangka Kerja\Tugas\Static Currency Converter\Static Currency Converter\obj\Debug\netcoreapp3.1\Static Currency Converter.dll
+C:\Users\Diclair\Documents\ITS\Pemrograman Berbasis Kerangka Kerja\Tugas\Static Currency Converter\Static Currency Converter\obj\Debug\netcoreapp3.1\Static Currency Converter.pdb
+C:\Users\Diclair\Documents\ITS\Pemrograman Berbasis Kerangka Kerja\Tugas\Static Currency Converter\Static Currency Converter\obj\Debug\netcoreapp3.1\Static Currency Converter.genruntimeconfig.cache
